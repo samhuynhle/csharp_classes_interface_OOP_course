@@ -1,0 +1,11 @@
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.exe
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.dev.json
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\bin\Debug\netcoreapp3.1\methods.pdb
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\obj\Debug\netcoreapp3.1\methods.csprojAssemblyReference.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfo.cs
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\obj\Debug\netcoreapp3.1\methods.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\methods\obj\Debug\netcoreapp3.1\methods.pdb

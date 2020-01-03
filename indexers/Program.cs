@@ -6,7 +6,9 @@ namespace indexers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var cookie = new HttpCookie();
+            cookie["name"] = "Sam";
+            System.Console.WriteLine(cookie["name"]);
         }
     }
 }

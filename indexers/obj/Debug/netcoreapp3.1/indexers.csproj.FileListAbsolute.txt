@@ -1,0 +1,11 @@
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.exe
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.deps.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.runtimeconfig.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.runtimeconfig.dev.json
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\bin\Debug\netcoreapp3.1\indexers.pdb
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\obj\Debug\netcoreapp3.1\indexers.csprojAssemblyReference.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\obj\Debug\netcoreapp3.1\indexers.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\obj\Debug\netcoreapp3.1\indexers.AssemblyInfo.cs
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\obj\Debug\netcoreapp3.1\indexers.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\indexers\obj\Debug\netcoreapp3.1\indexers.pdb

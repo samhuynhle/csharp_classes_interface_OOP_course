@@ -2,7 +2,7 @@
 
 namespace constructors
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
@@ -11,8 +11,17 @@ namespace constructors
 
             // the paramerless
             var customer = new Customer(); // compiler will figure it out
+
+            // we can set the id and name
+            customer.Id = 100;
+            customer.Name = "Smith";
             Console.WriteLine(customer.Id);
             Console.WriteLine(customer.Name);
+
+            var order = new Order();
+            customer.Orders.Add(order); // we needed this to be initalized when we intialize customer class
+
+            // It is the responsiblity of the customer class to ensure that its Order field is initalized
 
             // using overloaded constructor
             var customer1 = new Customer(1, "John");

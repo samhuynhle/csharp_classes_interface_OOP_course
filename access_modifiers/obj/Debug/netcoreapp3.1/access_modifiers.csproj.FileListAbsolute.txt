@@ -1,0 +1,11 @@
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.exe
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.deps.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.runtimeconfig.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.runtimeconfig.dev.json
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.pdb
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.csprojAssemblyReference.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.AssemblyInfo.cs
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.pdb

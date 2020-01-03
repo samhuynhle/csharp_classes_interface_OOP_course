@@ -1,0 +1,11 @@
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.exe
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.deps.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.runtimeconfig.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.runtimeconfig.dev.json
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\bin\Debug\netcoreapp3.1\constructors.pdb
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\obj\Debug\netcoreapp3.1\constructors.csprojAssemblyReference.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\obj\Debug\netcoreapp3.1\constructors.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\obj\Debug\netcoreapp3.1\constructors.AssemblyInfo.cs
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\obj\Debug\netcoreapp3.1\constructors.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\constructors\obj\Debug\netcoreapp3.1\constructors.pdb

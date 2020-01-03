@@ -6,7 +6,7 @@ namespace classes
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }

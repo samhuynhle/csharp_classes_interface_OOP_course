@@ -1,0 +1,11 @@
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+C:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\obj\Debug\netcoreapp3.1\inheritance.csprojAssemblyReference.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+c:\Users\Sam\Desktop\csharp_courses\udemy_csharp_classes_interface_oop\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb

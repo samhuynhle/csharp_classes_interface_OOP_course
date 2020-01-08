@@ -6,7 +6,9 @@ namespace inheritance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var text = new Text();
+            text.Width = 100;
+            text.Copy();
         }
     }
 }
